@@ -1,0 +1,14 @@
+{
+  "default": true,
+  "MD007": { "indent": 2 },
+  "MD013": false,
+  "no-inline-html": {
+    "allowed_elements": ["details", "h1", "p"]
+  },
+  "MD033": {
+    "allowed_elements": ["nobr", "sup", "h1", "h2", "a", "code", "span", "br"]
+  },
+  "MD025": {
+    "front_matter_title": ""
+  }
+}
